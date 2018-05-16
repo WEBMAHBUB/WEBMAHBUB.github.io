@@ -1,0 +1,56 @@
+body {
+	margin: 0;
+}
+.first-top {
+	
+	background: grey;
+}
+.second-left {
+
+	width: 70%;
+	background: blue;
+	float: left;
+}
+.forth-top {
+
+	background:#FFFFFF;
+}
+.forth-bottom {
+	height: 200px;
+	background: red
+}
+.fifth-left {
+	height: 300px;
+	width: 50%;
+	background: blue;
+	float: left;
+}
+
+.fifth-right {
+	height: 400px;
+	width: 50%;
+	background: black;
+	overflow: hidden;
+}
+.second-right {
+	width: 30%;
+	overflow: hidden;
+}
+.third-top {
+	height:	150px;
+	background: red;
+}
+.third-bottom {
+	height: 300px;
+	background: orange;
+	
+}
+
+
+
+.first-bottom {
+	height: 100px;
+	background: #666666;
+	width: 90%;
+	float: right;
+}
